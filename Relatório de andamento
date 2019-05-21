@@ -1,0 +1,16 @@
+RELATÓRIO DE ANDAMENTO DO PROJETO
+1. Linguagem de programação utilizada;
+
+A linguagem de programação utilizada para o projeto do compilador será o Java
+
+2. Biblioteca (framework) utilizada;
+
+JavaCC, JMV
+
+3. Status do projeto (descrever o andamento do projeto);
+
+Até o momento ainda está na fase inicial, na criação da tabela de tokens
+
+4. Dificuldades.
+
+As maiores dificuldades estão no uso do Framework,pois é uma ferramenta nova e requer um novo aprendizado
